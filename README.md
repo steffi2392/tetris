@@ -1,3 +1,5 @@
 ABOUT --------------
 
-Tetris, implemented in Haskell, by Steffi Ostrowski
+Steffi Ostrowski, Winter 2012
+
+Tetris, implemented in Haskell
